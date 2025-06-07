@@ -1,3 +1,5 @@
+# Explicacion de como encontrar un numero primo 
+
 ## Paso 1: Manejar los casos más pequeños
 - Los números primos, por definición, son mayores que 1.
 
