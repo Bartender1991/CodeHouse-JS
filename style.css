@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(246, 243, 238);
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.boton {
+    border: none;
+    color: black;
+    padding: 14px 28px;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: white;
+    border: 2px solid #007bff;
+}
+
+.boton:hover {
+    background: #0b7dda;
+    color: white;
+}
+.container {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
